@@ -1,5 +1,5 @@
-account_id = ""
-name = ""
+account_id = "admin"
+name = "admin"
 type = "webpack"
 workers_dev = true
 compatibility_date = "2024-01-27"
